@@ -1,5 +1,5 @@
 // imports from project
-export const BASENAME = '/react/stage/js';
+export const BASENAME = '/react/free';
 export const BASE_URL = '/dashboard/sales';
 export const BASE_TITLE = ' | DashboardKit Bootstrap 5 Free Admin Template';
 

@@ -1,8 +1,8 @@
 {
-    "name": "dashboard-kit-react",
+    "name": "dashboard-kit-free-react-bootstrap-admin-template",
     "version": "1.0.0",
     "private": true,
-    "homepage": "https://dashboardkit.io/react/stage/js",
+    "homepage": "https://dashboardkit.io/react/free",
     "dependencies": {
         "@tanem/react-nprogress": "^3.0.54",
         "@testing-library/jest-dom": "^5.11.9",
