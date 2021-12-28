@@ -1,70 +1,93 @@
-# Getting Started with Create React App
+# Dashboardkit React Bootstrap
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Price](https://img.shields.io/badge/price-FREE-0098f7.svg)](https://github.com/codedthemes/dashboardkit-free-bootstrap-admin-template/blob/main/LICENSE)
+[![GitHub package version](https://img.shields.io/github/package-json/v/codedthemes/dashboardkit-free-bootstrap-admin-template)](https://github.com/codedthemes/dashboardkit-free-bootstrap-admin-template/)
 
-## Available Scripts
+DashboardKit Bootstrap React Admin Dashboard Template [![Tweet](https://img.shields.io/twitter/url/http/shields.io.svg?style=social)](https://twitter.com/intent/tweet?text=Get%20DashboardKit%20Bootstrap%205%20Admin%20Template&url=https://dashboardkit.io&via=codedthemes&hashtags=bootstrap,webdev,developers)
 
-In the project directory, you can run:
+Save your development time with ready to use DashboardKit Bootstrap Admin Template. DashboardKit is made for everyone, no matter you are a novice developer, designer, project manager/owner. It is made by an Elite Author with having 5+ years of experience in dashboard making.
 
-### `npm start`
+[Pro version](https://dashboardkit.io) of DashboardKit contains features like 10+ Ready to use layouts, Advance UI compoents, Form components & plugins, Advance Table examples, Chart, 11+ Apps, Extra page, and lots more.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![Berry React Material Admin Template](https://dashboardkit.io/adv-banner/git-main.gif)
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Why DashboardKit?
 
-### `npm test`
+DashboardKit free Bootstrap react admin template includes the following feature pages with having MIT license usage.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ * Professional UI design
+ 
+ * Fully Responsive, all modern browser supported
+ * Flexible & High-Performance code
+ * Easy Documentation Guide
 
-### `npm run build`
+## Free version preview
+#### Preview
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+ - [Demo](https://dashboardkit.io/react/free/)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Pro version preview & Purchase
+#### Preview
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ - [Demo](https://dashboardkit.io/react)
 
-### `npm run eject`
+#### Purchase
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+ - [Get DashboardKit](https://dashboardkit.io/product/dashboardkit-reactjs-admin-template/)
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Table of contents
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+ * [Getting Started](#getting-started)
+ * [Documentation](#documentation)
+ * [Technology Stack](#technology-stack)
+ * [Author](#author)
+ * [Issues?](#issues)
+ * [License](#license)
+ * [Follow us](#follow-us)
+ 
+## Getting Started
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+- Clone from Github - https://github.com/codedthemes/dashboard-kit-free-react-bootstrap-admin-template.git
+- Go to root dir
+- Run command 'yarn' or 'npm install'
+- Run command 'yarn start' or 'npm run start'
 
-## Learn More
+## Documentation
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+DashboardKit documentation helps you out in all aspects from Installation to deployment. Link to access [Documentation](https://codedthemes.gitbook.io/dashboardkit-react/).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## Technology Stack
 
-### Code Splitting
+ - React
+ - React Bootstrap
+ - React Redux
+ - Create React App
+ - React Router
+ - Axios
+ - Redux-saga
+ - Node
+ - Saas
+ 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+## Author
 
-### Analyzing the Bundle Size
+DashboardKit is managed by Team [CodedThemes](https://codedthemes.com).
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+## Issues
 
-### Making a Progressive Web App
+Please generate a Github issue if you found a bug in any version. We are trying to be responsive to resolve the issue.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## License
 
-### Advanced Configuration
+ - Licensed cover under [MIT](https://github.com/codedthemes/dashboardkit-free-bootstrap-admin-template/blob/main/LICENSE)
+ 
+## Follow us
+ - Website [https://dashboardkit.io](https://dashboardkit.io)
+ - CodedThemes [https://codedthemes.com](https://codedthemes.com)
+ - Dribbble [https://dribbble.com/codedthemes](https://dribbble.com/codedthemes)
+ - Facebook [https://www.facebook.com/codedthemes](https://www.facebook.com/codedthemes)
+ - Twitter [https://twitter.com/codedthemes](https://twitter.com/codedthemes)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Further Support
+ - Create Ticket here: https://codedthemes.support-hub.io/
