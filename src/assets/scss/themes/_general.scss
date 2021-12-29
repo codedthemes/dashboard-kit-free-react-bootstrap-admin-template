@@ -566,19 +566,19 @@ pre[class*='language-'] > code {
 }
 /* ================================    Blockquote End  ===================== */
 .fc .fc-toolbar {
-    @media (max-width: 768px){
+    @media (max-width: 768px) {
         display: block !important;
         text-align: center;
-        .fc-toolbar-chunk{
+        .fc-toolbar-chunk {
             margin: 10px auto;
         }
     }
 }
-.sticky-action{
+.sticky-action {
     position: sticky;
     top: calc(70px + 50px);
     z-index: 1020;
-    @media (max-width: 1024px){
+    @media (max-width: 1024px) {
         top: 70px;
     }
 }
@@ -604,13 +604,13 @@ pre[class*='language-'] > code {
 .pc-header .show.dropdown {
     position: static;
 }
-.btn-filter{
-    .btn{
+.btn-filter {
+    .btn {
         margin-top: 5px;
     }
 }
-.notification-modal{
-    .tabs-light.nav-pill .nav-item+.nav-item{
+.notification-modal {
+    .tabs-light.nav-pill .nav-item + .nav-item {
         margin-top: 5px;
     }
 }

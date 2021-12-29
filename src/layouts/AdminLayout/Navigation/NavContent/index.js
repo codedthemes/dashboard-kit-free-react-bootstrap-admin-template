@@ -50,6 +50,22 @@ const NavContent = ({ navigation, activeNav }) => {
             <ListGroup variant="flush" as="ul" bsPrefix=" " className="pc-navbar">
                 {navItems}
             </ListGroup>
+            <div className="card text-center">
+                <div className="card-body">
+                    <button type="button" className="btn-close btn-close-white" data-dismiss="alert" aria-hidden="true" />
+                    <i className="feather icon-sunset f-40" />
+                    <h6 className="mt-3 text-muted">Upgrade to Pro</h6>
+                    <p>To get more features and components</p>
+                    <a
+                        href="https://dashboardkit.io/product/dashboardkit-reactjs-admin-template/"
+                        target="_blank"
+                        rel="noreferrer"
+                        className="btn btn-primary btn-sm text-white m-0"
+                    >
+                        Buy now
+                    </a>
+                </div>
+            </div>
         </PerfectScrollbar>
     );
 

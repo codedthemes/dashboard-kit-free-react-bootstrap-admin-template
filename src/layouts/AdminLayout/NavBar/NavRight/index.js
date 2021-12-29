@@ -40,7 +40,15 @@ const NavRight = () => (
                 <Dropdown.Menu className="dropdown-menu-end pc-h-dropdown">
                     <Dropdown.Header className="pro-head">
                         <h5 className="text-overflow m-0">
-                            <span className="badge bg-light-success">Pro</span>
+                            <span className="badge bg-light-primary">
+                                <a
+                                    href="https://dashboardkit.io/product/dashboardkit-reactjs-admin-template/"
+                                    target="_blank"
+                                    rel="noreferrer"
+                                >
+                                    Upgrade To Pro
+                                </a>
+                            </span>
                         </h5>
                     </Dropdown.Header>
                     <Link to="/users/user-profile" className="dropdown-item">

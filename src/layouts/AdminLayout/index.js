@@ -70,6 +70,17 @@ const AdminLayout = ({ children }) => {
                     {children}
                 </div>
             </div>
+            <div className="fixed-button active">
+                <a
+                    href="https://dashboardkit.io/product/dashboardkit-reactjs-admin-template/"
+                    target="_blank"
+                    rel="noreferrer"
+                    className="btn btn-md btn-success"
+                >
+                    <i className="material-icons-two-tone text-white">shopping_cart</i>
+                    Upgrade To Pro
+                </a>
+            </div>
         </>
     );
     if (layout === 'horizontal' || layout === 'topbar') {
